@@ -1,0 +1,1 @@
+require 'clipboard_cleaner/version'
